@@ -60,6 +60,8 @@ Serve the `public/` directory at your podcast URL path so that:
 
 ## 6) Validate Live Feed
 
+Set your domain name on line 8 in validate_feed.php
+
 ```bash
 php validate_feed.php "$PODCAST_FEED_URL"
 ```
