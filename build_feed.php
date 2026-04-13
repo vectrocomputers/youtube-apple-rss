@@ -183,7 +183,7 @@ $playlistInput = 'YOUTUBE_PLAYLIST_URL';
 $playlistId = extract_playlist_id($playlistInput);
 
 $feedUrl = 'https://YOUR_DOMAIN/applerss/public/podcast.xml';
-$mediaBaseUrl = 'https:/YOUR_DOMAIN/applerss/public/media';
+$mediaBaseUrl = 'https://YOUR_DOMAIN/applerss/public/media';
 $artworkUrl = 'https://YOUR_DOMAIN/applerss/artwork.jpg';
 $ownerEmail = 'you@yourdomain.com';
 $ownerName = 'ARTIST_NAME';
