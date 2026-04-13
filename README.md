@@ -66,7 +66,7 @@ php validate_feed.php "$PODCAST_FEED_URL"
 
 If validation passes, submit `PODCAST_FEED_URL` in Apple Podcasts Connect.
 
-## 8) Cron (Automated Updates)
+## 7) Cron (Automated Updates)
 
 Example 30-minute refresh:
 
